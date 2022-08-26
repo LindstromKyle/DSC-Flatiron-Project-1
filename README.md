@@ -91,9 +91,16 @@ For Thrillers, we found Henry Joost (known for Paranormal Activity) to have ROI 
 
 
 ## Conclusion
-After simulating various calculations and plots to find correlations in the data that provided relevant and implementable insight for our objective, we came to these conclusions.
 
-Of the most profitable genres with the least amount of saturation (movies) and little to no presence (competition) from the other big studios, Sci-fi and Thrillers proved to have the most opportunity for breakthrough 
+After simulating various calculations and plots to find insights in the data that provided relevant and implementable towards our objective, we came to these conclusions.
 
 
-[Consulting Proposal Presentation.pdf](https://github.com/LindstromKyle/DSC-Flatiron-Project-1/files/9436509/Consulting.Proposal.Presentation.pdf)
+###Of the most profitable genres with the least amount of saturation (movies) and little to no presence (competition) from the other big studios, Sci-fi and Thrillers proved to have the most opportunity for breakthrough 
+
+###The ideal budget threshold is about $90 million 
+
+### The talent we recommend are directors in each genre; Francis Lawrence for Sci-Fi and Henry Joost for Thriller
+
+
+
+View presentation here: [Consulting Proposal Presentation.pdf](https://github.com/LindstromKyle/DSC-Flatiron-Project-1/files/9436509/Consulting.Proposal.Presentation.pdf)
