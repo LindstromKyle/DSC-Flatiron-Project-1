@@ -38,7 +38,8 @@ Through a combination of web-scraped data (The Numbers, Rotten Tomatoes, Box Off
 
 -	Find the breakdown of movies for each genre produced by studios with largest market share 
 
-![moviecount by genre](https://user-images.githubusercontent.com/103558721/186993496-fe94732e-50f7-49b5-80c7-9780ac078a21.PNG)
+![moviecount by genre](https://user-images.githubusercontent.com/103558721/186998803-b5b32e82-0546-4f9c-b723-5e5068919f5b.PNG)
+
 
 
 
