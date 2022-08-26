@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+Genre,Movies,TotalBoxOffice,Tickets,Share
+=======
 ﻿Genre,Movies,TotalBoxOffice,Tickets,Share
+>>>>>>> 9c78aba414c115b253ce49ae3ef1b2d2bd4918c6
 Adventure,1138,65547651673.00,"9,329,378,488",26.84%
 Action,1141,52841085875.00,"7,293,604,581",21.64%
 Drama,5562,35868326563.00,"5,448,415,784",14.69%
