@@ -103,4 +103,4 @@ After simulating various calculations and plots to find insights in the data tha
 
 
 
-View presentation here: [Consulting Proposal Presentation.pdf](https://github.com/LindstromKyle/DSC-Flatiron-Project-1/files/9436509/Consulting.Proposal.Presentation.pdf)
+View presentation here: [Consulting Proposal Presentation.pdf](https://github.com/LindstromKyle/DSC-Flatiron-Project-1/Consulting.Proposal.Presentation.pdf)
