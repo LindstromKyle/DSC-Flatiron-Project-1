@@ -83,7 +83,7 @@ For Sci-Fi, we have Francis Lawrence (known for the Hunger Games) - with a media
 
 ![hungergames](https://user-images.githubusercontent.com/103558721/186995141-975fd744-3802-40f4-b413-bda0452416fe.PNG)
 
-For Thrillers, we found Henry Joost (known for Paranormal Activity) to have ROI above 30 (300%)
+For Thrillers, we found Henry Joost (known for Paranormal Activity) to have ROI above 30
 
 ![thriller director](https://user-images.githubusercontent.com/103558721/186995252-f8ca3524-60a2-4959-875c-ba5bdf0f759c.PNG)
 
