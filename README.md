@@ -77,7 +77,7 @@ Through a combination of web-scraped data (The Numbers, Rotten Tomatoes, Box Off
 
 
 -	Identify Directors who have directed a minimum of 3 movies (in each respective genre) with the highest ROI's
-For Sci-Fi, we have Francis Lawrence (known for the Hunger Games) - with a median ROI above 10 (100%)
+For Sci-Fi, we have Francis Lawrence (known for the Hunger Games) - with a median ROI above 10
 
 ![scifi director](https://user-images.githubusercontent.com/103558721/186995007-4179ffe8-68f8-4faa-8096-e3c8a1a5f7d4.PNG)
 
