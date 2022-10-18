@@ -102,5 +102,6 @@ After simulating various calculations and plots to find insights in the data tha
 ### The talent we recommend are directors in each genre; Francis Lawrence for Sci-Fi and Henry Joost for Thriller
 
 
+[Full Jupyter Notebook](https://github.com/LindstromKyle/DSC-Flatiron-Project-1/blob/main/Index.ipynb)
 
-View presentation here: [Consulting Proposal Presentation.pdf](https://github.com/LindstromKyle/DSC-Flatiron-Project-1/blob/main/Consulting%20Proposal%20Presentation.pdf)
+[Non Technical Presentation](https://github.com/LindstromKyle/DSC-Flatiron-Project-1/blob/main/Consulting%20Proposal%20Presentation.pdf)
